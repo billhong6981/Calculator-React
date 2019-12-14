@@ -12,7 +12,7 @@ were generate in the child components need to lift up to parent component
 * (in your browser) 0.0.0.0:5000
 
 ## Link to the App
-
+[Web App](https://billhong6981.github.io/Calculator-React/)
 
 ## Author
 Bill Huang
